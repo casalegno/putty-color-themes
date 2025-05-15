@@ -6,6 +6,7 @@ con tutte le impostazioni che salviamo nella nostra sessione.
 
 ## Come utilizzare questi file
 1. Dall'elenco delle immagini, selezioniamo lo schema colore che piu ci aggrada (comprende un po tutti i parametri colore) [here](images/readme.md)
+    Al momento nel repo sono presenti 50 combinazioni colori, l'ultima è ZenBurn. Tutte quelle successive sono state aggiunte da me.
 2. Quindi scarichiamo il file che ci interessa ed apriamolo in modifica, andando a modificare il nome della sessione all'interno della posizione della chiave
     `Computer\HKEY_CURRENT_USER\SOFTWARE\SimonTatham\PuTTY\Sessions\Nome%20Sessione` -> `Computer\HKEY_CURRENT_USER\SOFTWARE\SimonTatham\PuTTY\Sessions\Nome%20Personalizzato%20Sessione` 
 3. Una volta salvato, eseguiamo un doppio click sul file ed autorizziamo windows alla modifica del file di registro.
