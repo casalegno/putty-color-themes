@@ -65,6 +65,11 @@ Windows Registry Editor Version 5.00
 ; ANSI White Bold
 "Colour21"="255,255,255"
 ```
+## Risorse Aggiuntive
+Cercando per la rete si trovano risorse aggiuntive a Putty legate ai colori, di seguito ne elenco alcune:
+- [Putty Colors](https://puttycolors.com/): sito web che permette di scaricare un software per la gestione dei colori della putty
+
+
 ----
 Original [putty.org.ru](http://putty.org.ru/themes/index.html)
 Now avaliable on [webarchive]( https://web.archive.org/web/20151122030926/http://putty.org.ru:80/themes/index.html)
